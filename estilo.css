@@ -1,0 +1,108 @@
+
+body{
+    background-image: url(./fundo.jpg);
+    background-size: cover;
+    background-position: top;
+    margin: 0;
+}
+
+.topo{
+    background: rgba(0, 0, 0, 0.658);
+    padding: 18px;
+    text-align: right;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+a.link0{
+    color: white;
+    text-decoration: none;
+    font-size: 19px;
+    padding-right: 166px;
+}
+a.link0:hover{
+    font-size: 20px;
+}
+
+
+
+a.link1{
+    color: rgb(255, 255, 255);
+    text-align: left ;
+    padding-right: 420px;
+    text-decoration: none;
+    font-size: 19px;
+}
+a.link1:hover{
+    font-size: 20px;
+}
+
+
+
+a.link2{
+    color: white;
+    text-align: right;
+    padding-right:  150px;
+    text-decoration: none;
+    font-size: 19px;
+}
+a.link2:hover{
+    font-size: 20px;
+}
+
+
+
+a.link3{
+    color: white;
+    text-decoration: none;
+    font-size: 19px;
+    padding-left: 10px;
+}
+a.link3:hover{
+    font-size: 20px;
+}
+
+
+
+.Titulo{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 145px;
+    font-size: 80px;   
+}
+
+
+
+.Conteudo{
+    text-align: center;
+    font-size: 39px;   
+}
+
+
+
+.Link-botao{
+    text-align: center;
+    margin-left: 592px;
+    text-decoration: none;
+    border: 3px solid rgb(7, 7, 7);
+    border-radius: 60px;
+    padding:22px 35px 22px 35px ;
+    color: white;
+    background: rgba(0, 0, 0, 0.952);
+    font-size: 25px;
+    font-weight: bold;      
+}
+.Link-botao:hover{
+          background:rgba(0, 0, 0, 0.719) ;
+          color: rgba(252, 252, 252, 0.795);
+          border: 4px rgba(0, 0, 0, 0.836); 
+          cursor:grab   ;              
+}
+
+
+
+
